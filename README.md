@@ -34,11 +34,13 @@ This repository is created to demonstrate:
 
 ## 📱 Screenshots
 
-<p align="center">
-  <img src="screenshots/screen.png" width="200" />
-  <img src="screenshots/screen2.png" width="200" />
-  <img src="screenshots/screen3.png" width="200" />
-</p>
+<table>
+  <tr>
+    <td><img src="screenshots/screen.png" width="200"></td>
+    <td><img src="screenshots/screen2.png" width="200"></td>
+    <td><img src="screenshots/screen3.png" width="200"></td>
+  </tr>
+</table>
 
 ## 🛠️ Tech Stack
 
