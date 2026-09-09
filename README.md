@@ -32,6 +32,26 @@ This repository is created to demonstrate:
 - Version-controlled release management
 - Easy setup and installation
 
+## 📱 Screenshots
+
+
+
+![Screen 1](screenshots/screen.png)
+
+
+
+
+
+![Screen 2](screenshots/screen2.png)
+
+
+
+
+
+![Screen 3](screenshots/screen3.png)
+
+
+
 ## 🛠️ Tech Stack
 
 - **Language:** Kotlin / Java
